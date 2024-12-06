@@ -1,0 +1,2469 @@
+Question: julia played tag with 18 kids on monday . she played tag with 10 kids on tuesday . how many more kids did she play with on monday than on tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 18 kids on monday . she played tag with 10 kids on tuesday . how many more kids did she play with on monday than on tuesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 18
+2. Kids played with on Tuesday = 10
+3. Kids played more on Monday than on Tuesday = Kids on Monday - Kids on Tuesday = 18 - 10
+Therefore, the answer is 8
+
+True Answer: 8.0
+Predicted: 8.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 11 kids on monday . she played tag with 12 kids on tuesday . how many more kids did she play with on tuesday than on monday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 11 kids on monday . she played tag with 12 kids on tuesday . how many more kids did she play with on tuesday than on monday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 11
+2. Kids played with on Tuesday = 12
+3. Kids played more on Tuesday than on Monday = Kids on Tuesday - Kids on Monday = 12 - 11
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 5 kids on monday . she played tag with some more kids on tuesday . if she played with a total of 15 kids how many kids did she play with on tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 5 kids on monday . she played tag with some more kids on tuesday . if she played with a total of 15 kids how many kids did she play with on tuesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 5
+2. Total kids played with = 15
+3. Kids played with on Tuesday = Total kids played with - Kids played with on Monday = 15 - 5
+Therefore, the answer is 10
+
+True Answer: 10.0
+Predicted: 10.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with some kids on monday . she played tag with 14 kids on tuesday . if she played with a total of 16 kids how many kids did she play with on monday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with some kids on monday . she played tag with 14 kids on tuesday . if she played with a total of 16 kids how many kids did she play with on monday ?
+
+### Response:
+Let's think step by step:
+1. Total number of kids played with = 16
+2. Number of kids played with on Tuesday = 14
+3. Number of kids played with on Monday = Total - Tuesday = 16 - 14
+Therefore, the answer is 2
+
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 16 kids on monday . if she played tag with 12 more kids on monday than on tuesday how many kids did she play with on tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 16 kids on monday . if she played tag with 12 more kids on monday than on tuesday how many kids did she play with on tuesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 16
+2. Kids played with on Tuesday = Kids played with on Monday - 12 = 16 - 12
+Therefore, the answer is 4
+
+True Answer: 4.0
+Predicted: 4.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 14 kids on tuesday . if she played tag with 8 more kids on monday than on tuesday how many kids did she play with on monday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 14 kids on tuesday . if she played tag with 8 more kids on monday than on tuesday how many kids did she play with on monday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Tuesday = 14
+2. Kids played with on Monday = Kids on Tuesday + 8 = 14 + 8
+Therefore, the answer is 22
+
+True Answer: 22.0
+Predicted: 22.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 17 kids on monday 15 kids on tuesday and 2 kids on wednesday . how many kids did she play with altogether ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 17 kids on monday 15 kids on tuesday and 2 kids on wednesday . how many kids did she play with altogether ?
+
+### Response:
+Let's think step by step:
+1. Total kids played with on Monday = 17
+2. Total kids played with on Tuesday = 15
+3. Total kids played with on Wednesday = 2
+4. Total kids played with altogether = Total kids on Monday + Total kids on Tuesday + Total kids on Wednesday = 17 + 15 + 2
+Therefore, the answer is 34
+
+True Answer: 34.0
+Predicted: 34.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 15 kids on monday 18 kids on tuesday and 97 kids on wednesday . how many kids did she play with on monday and tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 15 kids on monday 18 kids on tuesday and 97 kids on wednesday . how many kids did she play with on monday and tuesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 15
+2. Kids played with on Tuesday = 18
+3. Total kids played with on Monday and Tuesday = 15 + 18
+Therefore, the answer is 33
+
+True Answer: 33.0
+Predicted: 33.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 5 kids on monday 9 kids on tuesday and 15 kids on wednesday . how many kids did she play with on monday and wednesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 5 kids on monday 9 kids on tuesday and 15 kids on wednesday . how many kids did she play with on monday and wednesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 5
+2. Kids played with on Wednesday = 15
+3. Total kids played with on Monday and Wednesday = 5 + 15
+Therefore, the answer is 20
+
+True Answer: 20.0
+Predicted: 20.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 2 kids on monday 14 kids on tuesday and 16 kids on wednesday . how many kids did she play with on tuesday and wednesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 2 kids on monday 14 kids on tuesday and 16 kids on wednesday . how many kids did she play with on tuesday and wednesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Tuesday = 14
+2. Kids played with on Wednesday = 16
+3. Total kids played with on Tuesday and Wednesday = Kids on Tuesday + Kids on Wednesday = 14 + 16
+Therefore, the answer is 30
+
+True Answer: 30.0
+Predicted: 30.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 9 kids on monday 7 kids on tuesday and 96 kids on wednesday . how many more kids did she play with on monday than on tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 9 kids on monday 7 kids on tuesday and 96 kids on wednesday . how many more kids did she play with on monday than on tuesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 9
+2. Kids played with on Tuesday = 7
+3. Kids played more on Monday than on Tuesday = Kids on Monday - Kids on Tuesday = 9 - 7
+Therefore, the answer is 2
+
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 14 kids on monday 2 kids on tuesday and 8 kids on wednesday . how many more kids did she play with on monday than on wednesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 14 kids on monday 2 kids on tuesday and 8 kids on wednesday . how many more kids did she play with on monday than on wednesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 14
+2. Kids played with on Wednesday = 8
+3. Kids played more on Monday than on Wednesday = Kids on Monday - Kids on Wednesday = 14 - 8
+Therefore, the answer is 6
+
+True Answer: 6.0
+Predicted: 6.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 8 kids on monday 11 kids on tuesday and 9 kids on wednesday . how many more kids did she play with on tuesday than on wednesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 8 kids on monday 11 kids on tuesday and 9 kids on wednesday . how many more kids did she play with on tuesday than on wednesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Tuesday = 11
+2. Kids played with on Wednesday = 9
+3. Kids more played with on Tuesday than on Wednesday = Kids on Tuesday - Kids on Wednesday = 11 - 9
+Therefore, the answer is 2
+
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 15 kids on monday 18 kids on tuesday and 7 kids on wednesday . how many more kids did she play with on monday and tuesday than on wednesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 15 kids on monday 18 kids on tuesday and 7 kids on wednesday . how many more kids did she play with on monday and tuesday than on wednesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 15
+2. Kids played with on Tuesday = 18
+3. Kids played with on Wednesday = 7
+4. Total kids played with on Monday and Tuesday = 15 + 18 = 33
+5. Difference between total kids played with on Monday and Tuesday and kids played with on Wednesday = 33 - 7
+Therefore, the answer is 26
+
+True Answer: 26.0
+Predicted: 26.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 13 kids on monday and 10 kids on tuesday . she played cards wtih 15 kids on wednesday . how many kids did she play with altogether ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 13 kids on monday and 10 kids on tuesday . she played cards wtih 15 kids on wednesday . how many kids did she play with altogether ?
+
+### Response:
+Let's think step by step:
+1. Total kids played with on Monday = 13
+2. Total kids played with on Tuesday = 10
+3. Total kids played with on Wednesday = 15
+4. Total kids played with altogether = Total kids played with on Monday + Total kids played with on Tuesday + Total kids played with on Wednesday = 13 + 10 + 15
+Therefore, the answer is 38
+
+True Answer: 38.0
+Predicted: 38.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+
+### Response:
+Let's think step by step:
+1. Total kids played tag on Monday = 7
+2. Total kids played tag on Tuesday = 13
+3. Total kids played tag on Wednesday = 0 (since she played cards)
+4. Total kids played tag altogether = 7 + 13 + 0 = 20
+Therefore, the answer is 20
+
+True Answer: 20.0
+Predicted: 20.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 12 kids on monday . she played tag with 14 kids on tuesday . she spent a total of 34 hours to play tag on both days . how many kids did she play with altogether ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 12 kids on monday . she played tag with 14 kids on tuesday . she spent a total of 34 hours to play tag on both days . how many kids did she play with altogether ?
+
+### Response:
+Let's think step by step:
+1. Total number of kids played with on Monday = 12
+2. Total number of kids played with on Tuesday = 14
+3. Total number of kids played with altogether = Total kids on Monday + Total kids on Tuesday = 12 + 14
+Therefore, the answer is 26
+
+True Answer: 26.0
+Predicted: 26.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 19 kids on monday . she played tag with 18 kids on tuesday . she spent a total of 38 hours to play tag on both days . how many more kids did she play with on monday than on tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 19 kids on monday . she played tag with 18 kids on tuesday . she spent a total of 38 hours to play tag on both days . how many more kids did she play with on monday than on tuesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Monday = 19
+2. Kids played with on Tuesday = 18
+3. Difference in kids played with = Kids on Monday - Kids on Tuesday = 19 - 18
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 5 kids on tuesday . she had played tag with 6 kids on monday . how many more kids did she play with on monday than on tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 5 kids on tuesday . she had played tag with 6 kids on monday . how many more kids did she play with on monday than on tuesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Tuesday = 5
+2. Kids played with on Monday = 6
+3. Kids played more on Monday than on Tuesday = Kids on Monday - Kids on Tuesday = 6 - 5
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with a total of 18 kids . she played with 4 kids on monday and yet with some more kids on tuesday . how many kids did she play with on tuesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with a total of 18 kids . she played with 4 kids on monday and yet with some more kids on tuesday . how many kids did she play with on tuesday ?
+
+### Response:
+Let's think step by step:
+1. Total kids played with = 18
+2. Kids played with on Monday = 4
+3. Kids played with on Tuesday = Total kids played with - Kids played with on Monday = 18 - 4
+Therefore, the answer is 14
+
+True Answer: 14.0
+Predicted: 14.0
+Correct: True
+--------------------------------------------------
+
+Question: julia played tag with 4 kids on wednesday . she had played with 6 kids on monday and 17 kids on tuesday . how many more kids did she play with on monday than on wednesday ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+julia played tag with 4 kids on wednesday . she had played with 6 kids on monday and 17 kids on tuesday . how many more kids did she play with on monday than on wednesday ?
+
+### Response:
+Let's think step by step:
+1. Kids played with on Wednesday = 4
+2. Kids played with on Monday = 6
+3. Kids played more on Monday than on Wednesday = Kids on Monday - Kids on Wednesday = 6 - 4
+Therefore, the answer is 2
+
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby ate some pieces of candy . then he ate 25 more . if he ate a total of 43 pieces of candy how many pieces of candy had he eaten at the start ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby ate some pieces of candy . then he ate 25 more . if he ate a total of 43 pieces of candy how many pieces of candy had he eaten at the start ?
+
+### Response:
+Let's think step by step:
+1. Total pieces of candy eaten = 43
+2. Pieces of candy eaten after eating 25 more = 43 - 25 = 18
+Therefore, the answer is 18
+
+True Answer: 18.0
+Predicted: 18.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby ate 28 pieces of candy . then he ate 42 more . he also ate 63 pieces of chocolate . how many pieces of candy did bobby eat ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby ate 28 pieces of candy . then he ate 42 more . he also ate 63 pieces of chocolate . how many pieces of candy did bobby eat ?
+
+### Response:
+Let's think step by step:
+1. Pieces of candy eaten initially = 28
+2. Pieces of candy eaten after eating 42 more = 28 + 42 = 70
+3. Pieces of chocolate eaten = 63
+4. Total pieces of candy eaten = Pieces of candy eaten initially + Pieces of candy eaten after eating 42 more = 28 + 70 = 98
+Therefore, the answer is 98
+
+True Answer: 70.0
+Predicted: 98.0
+Correct: False
+--------------------------------------------------
+
+Question: bobby ate 33 pieces of candy . then he ate 4 more . he also ate 14 pieces of chocolate . how many pieces of candy and chocolate did bobby eat altogether ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby ate 33 pieces of candy . then he ate 4 more . he also ate 14 pieces of chocolate . how many pieces of candy and chocolate did bobby eat altogether ?
+
+### Response:
+Let's think step by step:
+1. Pieces of candy eaten = 33 + 4 = 37
+2. Pieces of chocolate eaten = 14
+3. Total pieces of candy and chocolate eaten = Pieces of candy eaten + Pieces of chocolate eaten = 37 + 14
+Therefore, the answer is 51
+
+True Answer: 51.0
+Predicted: 51.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby ate 38 pieces of candy . then he ate 36 more . he also ate 16 pieces of chocolate . how many more pieces of candy than chocolate did bobby eat ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby ate 38 pieces of candy . then he ate 36 more . he also ate 16 pieces of chocolate . how many more pieces of candy than chocolate did bobby eat ?
+
+### Response:
+Let's think step by step:
+1. Pieces of candy eaten = 38 + 36 = 74
+2. Pieces of chocolate eaten = 16
+3. Pieces of candy eaten more than chocolate = Pieces of candy eaten - Pieces of chocolate eaten = 74 - 16
+Therefore, the answer is 58
+
+True Answer: 58.0
+Predicted: 58.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby had 20 pieces of candy . he ate 34 pieces of candy . then he ate 18 more . how many pieces of candy did bobby eat ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby had 20 pieces of candy . he ate 34 pieces of candy . then he ate 18 more . how many pieces of candy did bobby eat ?
+
+### Response:
+Let's think step by step:
+1. Bobby had 20 pieces of candy.
+2. He ate 34 pieces of candy.
+3. Then he ate 18 more pieces of candy.
+4. Total pieces of candy eaten = 34 + 18 = 52
+Therefore, the answer is 52
+
+True Answer: 52.0
+Predicted: 52.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby had 21 pieces of candy . he ate 5 pieces of candy . then he ate 9 more . how many pieces of candy does he still have left ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby had 21 pieces of candy . he ate 5 pieces of candy . then he ate 9 more . how many pieces of candy does he still have left ?
+
+### Response:
+Let's think step by step:
+1. Bobby had 21 pieces of candy.
+2. He ate 5 pieces of candy.
+3. He ate 9 more pieces of candy.
+4. Total pieces of candy eaten = 5 + 9 = 14
+5. Pieces of candy left = 21 - 14 = 7
+Therefore, the answer is 7
+
+True Answer: 7.0
+Predicted: 7.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby had 22 pieces of candy . he ate some pieces of candy . then he ate 5 more . if he still has 8 pieces of candy left how many pieces of candy had he eaten at the start ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby had 22 pieces of candy . he ate some pieces of candy . then he ate 5 more . if he still has 8 pieces of candy left how many pieces of candy had he eaten at the start ?
+
+### Response:
+Let's think step by step:
+1. Bobby had 22 pieces of candy.
+2. He ate some pieces of candy.
+3. He ate 5 more pieces of candy.
+4. He still has 8 pieces of candy left.
+5. To find out how many pieces of candy he had eaten at the start, we need to subtract the number of pieces of candy he has left from the total number of pieces of candy he had.
+6. Total number of pieces of candy he had = 22
+7. Number of pieces of candy he has left = 8
+8. Number of pieces of candy he had eaten at the start = Total number of pieces of candy he had - Number of pieces of candy he has left = 22 - 8 = 14
+Therefore, the answer is 14
+
+True Answer: 9.0
+Predicted: 14.0
+Correct: False
+--------------------------------------------------
+
+Question: bobby had 19 pieces of candy . he ate 2 pieces of candy . how many pieces of candy does he still have left ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby had 19 pieces of candy . he ate 2 pieces of candy . how many pieces of candy does he still have left ?
+
+### Response:
+Let's think step by step:
+1. Bobby had 19 pieces of candy
+2. He ate 2 pieces of candy
+3. Pieces of candy left = Pieces of candy had - Pieces of candy eaten = 19 - 2
+Therefore, the answer is 17
+
+True Answer: 17.0
+Predicted: 17.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby had 32 pieces of candy . he ate some pieces of candy . if he has 20 pieces of candy left how many pieces of candy did bobby eat ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby had 32 pieces of candy . he ate some pieces of candy . if he has 20 pieces of candy left how many pieces of candy did bobby eat ?
+
+### Response:
+Let's think step by step:
+1. Bobby had 32 pieces of candy
+2. He ate some pieces of candy
+3. He has 20 pieces of candy left
+4. Number of pieces of candy Bobby ate = 32 - 20
+Therefore, the answer is 12
+
+True Answer: 12.0
+Predicted: 12.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby ate 17 pieces of candy . then he ate 15 more . if he initially had 36 pieces of candy how many pieces of candy does he still have left ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby ate 17 pieces of candy . then he ate 15 more . if he initially had 36 pieces of candy how many pieces of candy does he still have left ?
+
+### Response:
+Let's think step by step:
+1. Total pieces of candy Bobby ate = 17 + 15 = 32
+2. Initial pieces of candy Bobby had = 36
+3. Pieces of candy left = Initial pieces - Total pieces eaten = 36 - 32
+Therefore, the answer is 4
+
+True Answer: 4.0
+Predicted: 4.0
+Correct: True
+--------------------------------------------------
+
+Question: bobby ate 23 pieces of candy . if he initially had 30 pieces of candy how many pieces of candy does he still have left ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+bobby ate 23 pieces of candy . if he initially had 30 pieces of candy how many pieces of candy does he still have left ?
+
+### Response:
+Let's think step by step:
+1. Number of pieces of candy Bobby initially had = 30
+2. Number of pieces of candy Bobby ate = 23
+3. Number of pieces of candy Bobby still has left = Initial pieces of candy - Pieces of candy eaten = 30 - 23
+Therefore, the answer is 7
+
+True Answer: 7.0
+Predicted: 7.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 5 balloons and jake brought 3 balloons to the park . how many more balloons did allan have than jake in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 5 balloons and jake brought 3 balloons to the park . how many more balloons did allan have than jake in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 5
+2. Balloons brought by Jake = 3
+3. Difference in balloons = Balloons brought by Allan - Balloons brought by Jake = 5 - 3
+Therefore, the answer is 2
+
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 2 balloons and jake brought 3 balloons to the park . how many more balloons did jake have than allan in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 2 balloons and jake brought 3 balloons to the park . how many more balloons did jake have than allan in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 2
+2. Balloons brought by Jake = 3
+3. Difference in balloons = Balloons brought by Jake - Balloons brought by Allan = 3 - 2
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: allan and jake brought 3 balloons to the park . if allan brought 2 balloons how many balloons did jake bring to the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan and jake brought 3 balloons to the park . if allan brought 2 balloons how many balloons did jake bring to the park ?
+
+### Response:
+Let's think step by step:
+1. Total balloons brought = 3
+2. Balloons brought by Allan = 2
+3. Balloons brought by Jake = Total balloons - Balloons brought by Allan = 3 - 2
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: jake brought 6 balloons to the park . if jake brought 4 more balloons than the number of balloons that allan brought how many balloons did allan bring to the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+jake brought 6 balloons to the park . if jake brought 4 more balloons than the number of balloons that allan brought how many balloons did allan bring to the park ?
+
+### Response:
+Let's think step by step:
+1. Number of balloons Jake brought = 6
+2. Number of balloons Allan brought = Jake's balloons - 4
+3. Number of balloons Allan brought = 6 - 4
+Therefore, the answer is 2
+
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 5 balloons to the park . if jake brought 6 more balloons than the number of balloons that allan brought how many balloons did jake bring to the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 5 balloons to the park . if jake brought 6 more balloons than the number of balloons that allan brought how many balloons did jake bring to the park ?
+
+### Response:
+Let's think step by step:
+1. Number of balloons Allan brought = 5
+2. Number of balloons Jake brought = Number of balloons Allan brought + 6 = 5 + 6
+Therefore, the answer is 11
+
+True Answer: 11.0
+Predicted: 11.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 3 balloons and jake brought 5 balloons to the park . allan then bought 2 more balloons at the park . how many balloons did allan and jake have in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 3 balloons and jake brought 5 balloons to the park . allan then bought 2 more balloons at the park . how many balloons did allan and jake have in the park ?
+
+### Response:
+Let's think step by step:
+1. Allan's balloons before buying more = 3
+2. Allan's balloons after buying more = 3 + 2 = 5
+3. Jake's balloons = 5
+4. Total balloons in the park = Allan's balloons + Jake's balloons = 5 + 5 = 10
+Therefore, the answer is 10
+
+True Answer: 10.0
+Predicted: 10.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 2 balloons and jake brought 4 balloons to the park . allan then bought 3 more balloons at the park . how many more balloons did allan have than jake in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 2 balloons and jake brought 4 balloons to the park . allan then bought 3 more balloons at the park . how many more balloons did allan have than jake in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 2 + 3 = 5
+2. Balloons brought by Jake = 4
+3. Difference in balloons = 5 - 4
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 2 balloons and jake brought 6 balloons to the park . allan then bought 3 more balloons at the park . how many more balloons did jake have than allan in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 2 balloons and jake brought 6 balloons to the park . allan then bought 3 more balloons at the park . how many more balloons did jake have than allan in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 2 + 3 = 5
+2. Balloons brought by Jake = 6
+3. Difference in balloons = Jake's balloons - Allan's balloons = 6 - 5
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 5 balloons and jake brought 4 balloons to the park . allan then bought 3 more balloons at the park . how many balloons did allan bring to the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 5 balloons and jake brought 4 balloons to the park . allan then bought 3 more balloons at the park . how many balloons did allan bring to the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan initially = 5
+2. Balloons bought at the park = 3
+3. Total balloons brought by Allan = 5 + 3
+Therefore, the answer is 8
+
+True Answer: 8.0
+Predicted: 8.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 6 balloons and jake brought 2 balloons to the park . jake then bought 3 more balloons at the park . how many more balloons did allan have than jake in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 6 balloons and jake brought 2 balloons to the park . jake then bought 3 more balloons at the park . how many more balloons did allan have than jake in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 6
+2. Balloons brought by Jake = 2
+3. Balloons bought by Jake at the park = 3
+4. Total balloons brought by Jake = 2 + 3 = 5
+5. Difference in balloons between Allan and Jake = 6 - 5
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 6 balloons and jake brought 3 balloons to the park . jake then bought 4 more balloons at the park . how many more balloons did jake have than allan in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 6 balloons and jake brought 3 balloons to the park . jake then bought 4 more balloons at the park . how many more balloons did jake have than allan in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 6
+2. Balloons brought by Jake = 3
+3. Balloons bought by Jake at the park = 4
+4. Total balloons with Jake = 3 + 4 = 7
+5. Difference in balloons between Jake and Allan = 7 - 6
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 5 balloons and jake brought 6 balloons to the park . jake then bought 3 more balloons at the park . how many balloons did jake bring to the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 5 balloons and jake brought 6 balloons to the park . jake then bought 3 more balloons at the park . how many balloons did jake bring to the park ?
+
+### Response:
+Let's think step by step:
+1. Jake brought 6 balloons initially.
+2. He bought 3 more balloons at the park.
+3. Total balloons brought by Jake = 6 + 3 = 9
+Therefore, the answer is 9
+
+True Answer: 9.0
+Predicted: 9.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 3 balloons and 20 balls while jake brought 5 balloons and 59 balls to the park . how many balloons did allan and jake have in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 3 balloons and 20 balls while jake brought 5 balloons and 59 balls to the park . how many balloons did allan and jake have in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 3
+2. Balloons brought by Jake = 5
+3. Total balloons brought by Allan and Jake = Balloons brought by Allan + Balloons brought by Jake = 3 + 5
+Therefore, the answer is 8
+
+True Answer: 8.0
+Predicted: 8.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 7 balloons and 5 balls while jake brought 6 balloons and 4 balls to the park . how many balls did allan and jake have in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 7 balloons and 5 balls while jake brought 6 balloons and 4 balls to the park . how many balls did allan and jake have in the park ?
+
+### Response:
+Let's think step by step:
+1. Number of balls Allan brought = 5
+2. Number of balls Jake brought = 4
+3. Total number of balls in the park = Number of balls Allan brought + Number of balls Jake brought = 5 + 4
+Therefore, the answer is 9
+
+True Answer: 9.0
+Predicted: 9.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 5 balloons . if allan and jake brought total of 6 balloons to the park how many balloons did jake bring to the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 5 balloons . if allan and jake brought total of 6 balloons to the park how many balloons did jake bring to the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 5
+2. Total balloons brought by Allan and Jake = 6
+3. Balloons brought by Jake = Total balloons - Balloons brought by Allan = 6 - 5
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: allan brought 2 balloons to the park and then bought 3 more balloons there . if jake brought 6 balloons to the park how many more balloons did jake have than allan in the park ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+allan brought 2 balloons to the park and then bought 3 more balloons there . if jake brought 6 balloons to the park how many more balloons did jake have than allan in the park ?
+
+### Response:
+Let's think step by step:
+1. Balloons brought by Allan = 2
+2. Balloons bought by Allan at the park = 3
+3. Total balloons with Allan in the park = 2 + 3 = 5
+4. Balloons brought by Jake = 6
+5. Balloons more with Jake than Allan = 6 - 5
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Question: every day ryan spends 6 hours on learning english and 2 hours on learning chinese . how many more hours does he spend on learning english than he does on learning chinese ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+every day ryan spends 6 hours on learning english and 2 hours on learning chinese . how many more hours does he spend on learning english than he does on learning chinese ?
+
+### Response:
+Let's think step by step:
+1. Hours spent on English = 6 hours
+2. Hours spent on Chinese = 2 hours
+3. Hours spent more on English than on Chinese = Hours on English - Hours on Chinese = 6 - 2
+Therefore, the answer is 4
+
+True Answer: 4.0
+Predicted: 4.0
+Correct: True
+--------------------------------------------------
+
+Question: every day ryan spends 6 hours on learning english and 7 hours on learning chinese . how many more hours does he spend on learning chinese than he does on learning english ?
+Complete Response:
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You have to solve a math problem. Provide a brief, concise step-by-step solution and then provide the final numerical answer in the format: "Therefore, the answer is [number]"
+
+Here are some examples:
+
+Example-1: 
+### Input:
+every day swayam spends 4 hours on learning english and 9 hours on learning chinese. how many more hours does he spend on learning chinese than he does on learning english?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 9 hours
+2. Hours spent on English = 4 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 9 - 4
+Therefore, the answer is 5
+
+
+Example-2:
+### Input:
+a store offers a 20% discount on a $80 shirt. what is the final price?
+
+### Response:
+Let's think step by step:
+1. Calculate the discount amount: $80 × 20% = $80 × 0.2 = $16
+2. Subtract discount from original price: $80 - $16 = $64
+Therefore, the answer is 64
+
+
+Now solve the following math problem after thinking about the problem step by step:
+
+### Input:
+every day ryan spends 6 hours on learning english and 7 hours on learning chinese . how many more hours does he spend on learning chinese than he does on learning english ?
+
+### Response:
+Let's think step by step:
+1. Hours spent on Chinese = 7 hours
+2. Hours spent on English = 6 hours
+3. Hours spent more on Chinese than on English = Hours on Chinese - Hours on English = 7 - 6
+Therefore, the answer is 1
+
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+--------------------------------------------------
+
+Accuracy: 96%
